@@ -5,7 +5,7 @@
 This project analyzes e-commerce sales data to find trends, top-selling products, and customer behavior using **Python, SQL, Power BI, and Excel**.
 
 ## 🔧 Tools Used:
-- Python (Pandas, Matplotlib)
+- Python (Pandas, Matplotlib,NumPy,Seaborn)
 - SQL 
 - Power BI (Data Visualization)
 - Excel (Pivot Tables)
